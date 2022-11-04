@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimbot_component_mirai_website=self.webpackChunksimbot_component_mirai_website||[]).push([[1326],{770:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/component/mirai/blog/tags/hello","allTagsPath":"/component/mirai/blog/tags","count":2}')}}]);

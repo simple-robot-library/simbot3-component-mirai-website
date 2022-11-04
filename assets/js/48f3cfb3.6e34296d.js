@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimbot_component_mirai_website=self.webpackChunksimbot_component_mirai_website||[]).push([[8936],{9761:e=>{e.exports=JSON.parse('{"permalink":"/component/mirai/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
